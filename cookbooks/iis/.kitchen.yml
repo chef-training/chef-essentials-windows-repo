@@ -32,7 +32,7 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[workstation::default]
+      - recipe[iis::default]
     verifier:
       inspec_tests:
         - test/recipes

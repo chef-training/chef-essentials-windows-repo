@@ -1,12 +1,12 @@
 #
-# Cookbook Name:: iis-demo
+# Cookbook Name:: iis
 # Spec:: default
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 
 require 'spec_helper'
 
-describe 'iis-demo::default' do
+describe 'iis::default' do
   context 'When all attributes are default, on an unspecified platform' do
     let(:chef_run) do
       runner = ChefSpec::ServerRunner.new

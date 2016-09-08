@@ -1,4 +1,3 @@
-# iis-demo
+# iis
 
 TODO: Enter the cookbook description here.
-
