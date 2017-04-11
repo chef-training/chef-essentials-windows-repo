@@ -24,7 +24,7 @@ verifier:
 platforms:
   - name: windows-2012r2
     driver_config:
-      image_id: ami-ca82c4a0
+      image_id: ami-4a80ac20
     transport:
       username: Administrator
       password: Cod3Can!
